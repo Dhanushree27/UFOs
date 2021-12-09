@@ -21,7 +21,7 @@ function handleClick(){
     // Grabs the entered datetime value from HTML
     let date=d3.select("#datetime").property("value");
     // Default value to display if no date is entered
-    let filterdData=tableData;
+    let filteredData=tableData;
     // Filter rows based on entered data
     if (date){
         filteredData=filteredData.filter(row=>row.datetime===date);
