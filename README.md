@@ -39,7 +39,7 @@ It is not necessary to enter data in each criteria
 
 To clear filters, click on **UFO Sightings** at the top of the page.
 
-![Clear filter](https://github.com/Dhanushree27/UFOs/blob/main/static/images/Clear%20filter.png "Clear filter")
+
 
 ## Summary
 A webpage containing a table with the captacity to the filtered based on multiple criteria was created. Despite the presence of dynamic filters, there a few drawbacks to the current design:
